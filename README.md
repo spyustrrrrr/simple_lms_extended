@@ -169,8 +169,8 @@ Masukkan:
 
 ```json
 {
-  "username": "student",
-  "password": "password"
+  "username": "student_demo",
+  "password": "StudentLMS2026!"
 }
 ```
 
